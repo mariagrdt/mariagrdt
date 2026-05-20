@@ -10,6 +10,7 @@ Quadrilingual: 🇫🇷 French · 🇷🇺 Russian · 🇬🇧 English · 🇪�
 ## 🚀 About Me
  
 Student at 42 Paris, focusing on **Cybersecurity, DevSecOps, and Cloud Security**.  
+
 Currently preparing my **AWS Certified Cloud Practitioner** certification.
  
 Looking for a **Cybersecurity / DevSecOps / Cloud Security internship — Fall 2026**
