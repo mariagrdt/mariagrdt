@@ -11,7 +11,7 @@ Quadrilingual: 🇫🇷 French · 🇷🇺 Russian · 🇬🇧 English · 🇪�
  
 Student at 42 Paris, focusing on **Cybersecurity, DevSecOps, and Cloud Security**.  
 
-Currently preparing my **AWS Certified Cloud Practitioner** certification.
+AWS Certified (**AWS Certified Cloud Practitioner**)
  
 Looking for a **Cybersecurity / DevSecOps / Cloud Security internship — Fall 2026**
  
@@ -45,7 +45,7 @@ Looking for a **Cybersecurity / DevSecOps / Cloud Security internship — Fall 2
 
 | Certification | Organization | Status |
 |---|---|---|
-| AWS Certified Cloud Practitioner | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white) | 🔄 In progress |
+| AWS Certified Cloud Practitioner | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white) | ✅ |
 | SecNumAcadémie | ![ANSSI](https://img.shields.io/badge/ANSSI-000091?style=flat&logoColor=white) | ✅ |
 
 
