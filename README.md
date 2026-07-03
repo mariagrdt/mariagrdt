@@ -1,7 +1,7 @@
 
 # Hi, I'm Maria 👋
  
-**Student at 42 Paris | Cybersecurity · DevSecOps · Cloud Security**
+**Student at 42 Paris | DevSecOps · Cloud Security**
  
 Quadrilingual: 🇫🇷 French · 🇷🇺 Russian · 🇬🇧 English · 🇪🇸 Spanish
  
