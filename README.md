@@ -37,8 +37,6 @@ Looking for a **Cybersecurity / DevSecOps / Cloud Security internship — Fall 2
 | [**Minishell**](https://github.com/mariagrdt/Minishell/) | Unix command interpreter in C | C, Fork, Exec, Pipes, Signals |
 | [**Signal Proxy**](https://github.com/mariagrdt/signal-proxy/) | Secure communication proxy deployed on production VPS | Docker Compose, Nginx, Let's Encrypt, SSH |
 | [**Ft_Irc**](https://github.com/Miloud54/ft_irc.git/)  | IRC server handling multiple clients with real-time messaging | C++, TCP/IP, Sockets, Poll, IRC Protocol |
-| **Born2beroot** | Linux system hardening in a virtual machine | Debian, LVM, UFW, SSH, Cron |
-| **NetPractice** | Networking & troubleshooting exercises | TCP/IP, Subnetting, Routing |
  
 ---
  
