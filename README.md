@@ -1,7 +1,7 @@
 
 # Hi, I'm Maria 👋
  
-**Student at 42 Paris | DevSecOps · Cloud Security**
+**Student at 42 Paris | DevOps · DevSecOps · Cloud Security**
  
 Quadrilingual: 🇫🇷 French · 🇷🇺 Russian · 🇬🇧 English · 🇪🇸 Spanish
  
@@ -9,11 +9,9 @@ Quadrilingual: 🇫🇷 French · 🇷🇺 Russian · 🇬🇧 English · 🇪�
  
 ## 🚀 About Me
  
-Student at 42 Paris, focusing on **Cybersecurity, DevSecOps, and Cloud Security**.  
+Student at 42 Paris, focusing on **DevOps, DevSecOps, and Cloud Security**.  
 
 AWS Certified (**AWS Certified Cloud Practitioner**)
- 
-Looking for a **Cybersecurity / DevSecOps / Cloud Security internship — Fall 2026**
  
 ---
  
