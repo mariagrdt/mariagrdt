@@ -34,7 +34,7 @@ AWS Certified (**AWS Certified Cloud Practitioner**)
 | [**Inception**](https://github.com/mariagrdt/Inception/) | Multi-service Docker infrastructure with TLS, reverse proxy, database and cache | Docker, Nginx, MariaDB, Redis |
 | [**Minishell**](https://github.com/mariagrdt/Minishell/) | Unix command interpreter in C | C, Fork, Exec, Pipes, Signals |
 | [**Signal Proxy**](https://github.com/mariagrdt/signal-proxy/) | Secure communication proxy deployed on production VPS | Docker Compose, Nginx, Let's Encrypt, SSH |
-| [**Ft_Irc**](https://github.com/mariagrdt/ft_irc)  | IRC server handling multiple clients with real-time messaging | C++, TCP/IP, Sockets, Poll, IRC Protocol |
+| [**Infra-DevSecOps**](https://github.com/mariagrdt/infra-devsecops/) AWS infrastructure provisioned as code - work in progress | Terraform, AWS (EC2, VPC) |
  
 ---
  
