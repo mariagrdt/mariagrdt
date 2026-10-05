@@ -1,7 +1,5 @@
 
 # Hi, I'm Maria 👋
-
----
  
 ## 🚀 About Me
  
