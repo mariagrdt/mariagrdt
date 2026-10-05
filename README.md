@@ -5,6 +5,10 @@
  
 Student at 42 Paris, focusing on **DevOps, DevSecOps, and Cloud Security**.  
 
+Before tech, I spent six years as a freelance photo retoucher for luxury houses, where I learned autonomy, rigor, and the habit of automating repetitive work — the same mindset I now bring to infrastructure. I like understanding how systems work end to end and making them more reliable and efficient.
+
+Currently sharpening my skills through 42 projects (systems, networking, Docker) and security CTFs.
+
 AWS Certified (**AWS Certified Cloud Practitioner**)
 
 Quadrilingual: 🇫🇷 French · 🇬🇧 English · 🇪🇸 Spanish  · 🇷🇺 Russian 
