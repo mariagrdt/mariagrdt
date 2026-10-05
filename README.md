@@ -1,10 +1,6 @@
 
 # Hi, I'm Maria 👋
- 
-**Student at 42 Paris | DevOps · DevSecOps · Cloud Security**
- 
-Quadrilingual: 🇫🇷 French · 🇷🇺 Russian · 🇬🇧 English · 🇪🇸 Spanish
- 
+
 ---
  
 ## 🚀 About Me
@@ -12,6 +8,8 @@ Quadrilingual: 🇫🇷 French · 🇷🇺 Russian · 🇬🇧 English · 🇪�
 Student at 42 Paris, focusing on **DevOps, DevSecOps, and Cloud Security**.  
 
 AWS Certified (**AWS Certified Cloud Practitioner**)
+
+Quadrilingual: 🇫🇷 French · 🇬🇧 English · 🇪🇸 Spanish  · 🇷🇺 Russian 
  
 ---
  
