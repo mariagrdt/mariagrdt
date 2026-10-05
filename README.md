@@ -56,9 +56,9 @@ Quadrilingual: 🇫🇷 French · 🇬🇧 English · 🇪🇸 Spanish  · 🇷�
  
 ## 🏆 Community & Events
  
-- 🔍 **Trace Labs CTF** — OSINT investigations to help find missing persons
-- 🛡️ **AWS & SANS CTF** — Cybersecurity challenges (web security, forensics) — **Top 20 Regional**
-- ☁️ **Cloud Native Days France 2026** — Volunteer
+- 🔍 **Trace Labs CTF** - OSINT investigations to help find missing persons
+- 🛡️ **AWS & SANS CTF** - Cybersecurity challenges (web security, forensics) - **Top 20 Regional**
+- ☁️ **Cloud Native Days France 2026** - Volunteer
 ---
  
 ## 📫 Contact
